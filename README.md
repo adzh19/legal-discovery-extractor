@@ -1,4 +1,4 @@
-# Discovery OCR & Party Information Extraction Tool
+# Legal Discovery Extractor
 
 A cloud-based pipeline that converts discovery documents stored in Box.com into structured, verified party data for eDefender, built for the Santa Barbara County Public Defender's Office.
 
